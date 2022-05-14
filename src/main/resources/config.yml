@@ -1,0 +1,11 @@
+recipes:
+  mossy_cobble:
+    enabled: true
+  mossy_stone_brick:
+    enabled: true
+  cracked_stone_brick:
+    enabled: true
+  god_apple:
+    enabled: true
+
+log_enabled_recipes: true

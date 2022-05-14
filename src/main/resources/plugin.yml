@@ -1,0 +1,6 @@
+name: KzRecipes
+version: '${project.version}'
+main: com.kzree.kzrecipes.KzRecipes
+api-version: 1.18
+authors: [ Kzree ]
+description: A collection of recipes to enhance your minecraft server
