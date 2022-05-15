@@ -8,4 +8,4 @@ recipes:
   god_apple:
     enabled: true
 
-log_enabled_recipes: true
+log_enabled_recipes: false
